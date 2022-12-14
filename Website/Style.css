@@ -1,0 +1,114 @@
+table{
+    width: 1450px;
+    margin:auto;
+    border-radius: 4.5px;
+    border-color: blueviolet;
+    color: brown;
+    background-color:  aliceblue;
+    opacity: 1.5;
+    height: 25%;
+}
+
+
+img{
+    width: 80px;
+    height: 80px;
+    background-color: aquamarine;
+    border-radius: 30%;
+    
+}
+nav{
+    bottom: 50%;
+    width: auto;
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    height: 30%;   
+    border-radius: 4.5px;
+    text-decoration-skip-ink: 100%;	
+}
+   
+body{
+    
+    background-image: url(./Graphic.jpg);
+    background-color: rgb(212, 222, 231);
+}
+iframe{
+    
+    text-align: center;
+    width: 1550px;
+    padding:0px;
+}
+.young{
+    
+}
+.ru{
+    background-color: rgb(246, 239, 239);
+    opacity: 0.5;  
+}
+.megan{
+  
+}
+.l{
+   
+}
+.employee{
+  text-align: center;
+}
+form{
+    width: 250px;
+    text-align: center;
+    margin: auto;
+    background-color:#E91E63;    
+    opacity: 0.85;
+    border-radius: 4.5px;
+}
+.love{
+    width: 350%;
+    text-align: center;
+    margin: auto;
+    border-radius: 4.5px;
+    background-position: center;
+    opacity: 0.85;
+   
+}
+
+ .xi{
+text-align: center;
+ }
+    
+{
+    text-align: center;
+
+}
+
+.op{
+    text-align: center;
+}
+.love{
+    width: 1450px;
+    display: inline-block;
+    
+}
+
+.a{
+
+    background-color: rgb(116, 102, 32); 
+}
+.b{
+   
+}
+.opo{
+    background-color:#81C784 ;
+    border-radius: 35.5px;
+    
+}
+thead{
+    background-color: aqua;
+    color: RED;
+}
+tbody{
+    background-color: blanchedalmond;
+    color: black;
+   text-decoration-color: brown;
+}
